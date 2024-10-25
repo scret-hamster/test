@@ -16,8 +16,5 @@
 
 [Ссылка на другой файл в репозитории](index.html)
 
-# Hello, world!
-
-<div className="note">
-  > Some notable things in a block quote!
-</div>
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
