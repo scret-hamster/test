@@ -20,7 +20,7 @@
 > Highlights information that users should take into account, even when skimming.
 
 <blockquote style="background-color: #fffae6;font-style:normal">
- <img src="https://info.1cbo.ru/wp-content/uploads/2019/05/free-icon-warning-sign-6345735.png" style="width:30px;height:30px;border:none;vertical-align:bottom" alt=""/> ТЕКСТ
+ <img src="img/warning.png" style="width:30px;height:30px;border:none;vertical-align:bottom" alt=""/> ТЕКСТ
 </blockquote>
 
 <div class="markdown-alert markdown-alert-note" dir="auto">
