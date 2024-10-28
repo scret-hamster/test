@@ -22,8 +22,9 @@
 > Highlights information that users should take into account, even when skimming.
 
 %2
-<blockquote style="background-color: #fffae6;font-style:normal">
- <img src="img/note.svg" style="width:30px;height:30px;border:none;vertical-align:bottom" alt=""/> ТЕКСТ
+<blockquote style="background-color: #fffae6;font-style:normal;border-left: 2px solid #0069b5">
+  <p><img src="img/note.svg" style="width:30px;height:30px;border:none;vertical-align:bottom" alt=""/> ПРИМЕЧАНИЕ</p>
+  <p>ТЕКСТ ПРИМЕЧАНИЯ</p>
 </blockquote>
 
 %3
