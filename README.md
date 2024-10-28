@@ -27,24 +27,19 @@
   <p>ТЕКСТ ПРИМЕЧАНИЯ</p>
 </blockquote>
 
-%3
-<div class="markdown-alert markdown-alert-note" dir="auto">
-  <p class="markdown-alert-title" dir="auto">
-    <img src="img/note.svg" style="width:30px;height:30px;border:none;vertical-align:bottom" alt=""/>
-    "Note"
-  </p>
-  <p dir="auto">Текст примечания</p>
-</div>
+<Tabs groupId="operating-systems">
+<TabItem value="ИмяПервойВкладки" label="ИмяПервойВкладки">
+ТекстПервойВкладки
+</TabItem>
+<TabItem value="ИмяВторойВкладки" label="ИмяВторойВкладки">
+ТекстВторойВкладки
+</TabItem>
+</Tabs>
 
-%4
-<div class="- topic/note note note note_note" id="doc00369__note_xpq_s15_m5b" data-ofbid="doc00369__note_xpq_s15_m5b">
-  <span class="note__title">Примечание:</span>
-  " Этот "
-  <span class="highlight">пример</span>
-  <span class="highlight">использует</span>
-  <a class="- topic/xref xref" href="doc00560.html">
-    "демонстрационное "
-    <span class="highlight">приложение</span>
-  </a>
-  "."
-</div>
+### Вкладки{.tabset}
+#### Первая вкладка
+Содержимое первой вкладки
+#### Вторая вкладка
+Содержимое второй вкладки
+#### Третья вкладка
+Содержимое третей вкладки
