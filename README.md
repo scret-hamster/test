@@ -20,7 +20,7 @@
 > Highlights information that users should take into account, even when skimming.
 
 <blockquote style="background-color: #fffae6;font-style:normal">
- <img src="img/warning.png" style="width:30px;height:30px;border:none;vertical-align:bottom" alt=""/> ТЕКСТ
+ <img src="img/note.svg" style="width:30px;height:30px;border:none;vertical-align:bottom" alt=""/> ТЕКСТ
 </blockquote>
 
 <div class="markdown-alert markdown-alert-note" dir="auto">
@@ -31,4 +31,16 @@
     Note
   </p>
   <p dir="auto">Highlights information that users should take into account, even when skimming.</p>
+</div>
+
+<div class="- topic/note note note note_note" id="doc00369__note_xpq_s15_m5b" data-ofbid="doc00369__note_xpq_s15_m5b">
+  <span class="note__title">Примечание:</span>
+  " Этот "
+  <span class="highlight">пример</span>
+  <span class="highlight">использует</span>
+  <a class="- topic/xref xref" href="doc00560.html">
+    "демонстрационное "
+    <span class="highlight">приложение</span>
+  </a>
+  "."
 </div>
